@@ -15,7 +15,7 @@
 | 2024 | 🎤 ASVspoof 2024 참가                                         |
 |      | 🧮 GIST Algorithm Masters (5등)                                  |
 |      | 🏆 SW중심대학 AI 부문 최우수상                                        |
-|      | 🤝 SW중심대학 아이디어 부문 후원기업상                                     |
+|      | 🤝 SW중심대학 우수작품 경진대회 후원기업상                                     |
 | 2025 | 🥈 미래와소프트웨어 아이디어 경진대회 우수상                                   |
 |   ~   | 🌎 Artificial Intelligence Entrepreneurship Program at UCSD |
 | 2025 - 8  | 🎓 호남권 대학 교류대회 - 조선대 대표                                       |
