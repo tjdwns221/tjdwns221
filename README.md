@@ -17,7 +17,8 @@
 |      | 🏆 SW중심대학 AI 부문 최우수상                                        |
 |      | 🤝 SW중심대학 우수작품 경진대회 후원기업상                                     |
 | 2025 | 🥈 미래와소프트웨어 아이디어 경진대회 우수상                                   |
-|   ~   | 🌎 Artificial Intelligence Entrepreneurship Program at UCSD |
+|   ~  2025 07.28 | 🌎 Artificial Intelligence Entrepreneurship Program at UCSD |
+| 2024 03 ~  | 음성처리 인공지능 연구실 학부연구생 
 | 2025 - 8  | 🎓 호남권 대학 교류대회 - 조선대 대표                                       |
 | 2025 - 9  | 🧠 오아시스 해커톤                                            |
 
