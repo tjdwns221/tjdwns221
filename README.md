@@ -26,11 +26,7 @@
 
 ### 🧠 What I’m Working On
 
-- 🎤 **Real-time Deepfake Voice Detection** (with STT + sliding window)
-- 📷 **Facial Expression Detection on Android**
-- 🧾 **Korean Rental Contract Analyzer** SaaS (OCR + AI)
-- 📊 **Global AI Job Market Analysis & Salary Predictor**
-- 🛡️ **B2C / B2G LegalTech Platform** for vulnerable communities
+
 
 ---
 
