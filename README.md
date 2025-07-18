@@ -27,8 +27,7 @@
 [![Solved.ac
 k940tjdwns](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ---
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tjdwns221&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns221&layout=compact&theme=tokyonight" width="48%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns221&layout=compact&theme=tokyonight" width="48%" /> </p>
 ---
 ### 🛠️ Tech Stack
 
