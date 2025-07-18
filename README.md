@@ -35,7 +35,4 @@
 ### 🛠️ Tech Stack
 
 ```bash
-💡 AI/ML      🧪 Audio       🧾 NLP/OCR    📦 Backend     📊 Data       
-🖥 OS/Tools    : Ubuntu, Git, VSCode, Jupyter
-
-
+💡 AI/ML      🧪 Audio       🧾 NLP/OCR    📦 Backend     📊 Data  
