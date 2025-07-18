@@ -24,6 +24,9 @@
 그외 교내 저학년 프로그래밍 수업 조교 및 강사 활동
 
 ---
+[![Solved.ac
+k940tjdwns](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+---
 
 ### 🛠️ Tech Stack
 
