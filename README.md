@@ -37,13 +37,8 @@
 ### 🛠️ Tech Stack
 
 ```bash
-💡 AI/ML       : PyTorch, TensorFlow, ResNet, EfficientNet, Transformers
-🧪 Audio       : torchaudio, STT (Whisper), ASVspoof, augmentations
-🧾 NLP/OCR     : HuggingFace, KoNLPy, TrOCR, Tesseract, AIHub
-📦 Backend     : FastAPI, Flask, MongoDB, Docker, Firebase
-🎨 Frontend    : React, Tailwind, Figma
-☁️ DevOps      : AWS, EC2, Docker, Ngrok, Discord Webhooks
-📊 Data        : Pandas, Seaborn, BigQuery, SQL
+💡 AI/ML      🧪 Audio       🧾 NLP/OCR    📦 Backend   
+🎨 Frontend    ☁️ DevOps     📊 Data       
 🖥 OS/Tools    : Ubuntu, Git, VSCode, Jupyter
 
 
