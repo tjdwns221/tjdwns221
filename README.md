@@ -27,7 +27,7 @@
 
 ---
 [![[Solved.ac
-프로필](https://solved.ac/profile/k940tjdwns)](http://mazassumnida.wtf/api/v2/generate_badge?boj={k940tjdwns})](https://solved.ac/{k940tjdwns})
+k940tjdwns)](http://mazassumnida.wtf/api/v2/generate_badge?boj={k940tjdwns})](https://solved.ac/{k940tjdwns})
 
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns221&layout=compact&theme=tokyonight" width="30%" /> </p>
