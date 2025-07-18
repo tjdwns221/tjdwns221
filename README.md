@@ -21,11 +21,13 @@
 | 2024 03 ~  | 음성처리 인공지능 연구실 학부연구생 
 | 2025 - 8  | 🎓 호남권 대학 교류대회 - 조선대 대표                                       |
 | 2025 - 9  | 🧠 오아시스 해커톤                                            |
+
+
 그외 교내 저학년 프로그래밍 수업 조교 및 강사 활동
 
 ---
 [![Solved.ac
-k940tjdwns](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+k940tjdwns](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns221&layout=compact&theme=tokyonight" width="48%" /> </p>
 ---
