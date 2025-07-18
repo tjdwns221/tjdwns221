@@ -29,7 +29,7 @@
 [![Solved.ac
 k940tjdwns](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns221&layout=compact&theme=tokyonight" width="48%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns221&layout=compact&theme=tokyonight" width="20%" /> </p>
 ---
 ### 🛠️ Tech Stack
 
