@@ -19,7 +19,7 @@
 | 2025 | 🥈 미래와소프트웨어 아이디어 경진대회 우수상                                   |
 |      |  프로그래밍 수업 조교 및 강사활동                                    |
 |      |  산학 협력 프로젝트 - ai 기반 계약서 검토 프로그램                    |
-| 2025 - 7  | 🌎 Artificial Intelligence Entrepreneurship Program at UCSD |
+| 2025 - 7  | 🌎 Artificial Intelligence Entrepreneurship Program at UCSD (https://www.youtube.com/watch?v=-6U8HAb6YVE)|
 | 2024 03 ~  | 음성처리 인공지능 연구실 학부연구생 
 | 2025 - 8  | 🎓 호남권 대학 교류대회 - 조선대 대표                                       |
 
