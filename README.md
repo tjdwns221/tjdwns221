@@ -1,6 +1,5 @@
 <h2 align="center">👋 Hi there, I'm <strong>Seongjun Kim (김성준)</strong>!</h2>
 <p align="center">
-  💻 AI Engineer | 🧠 Deepfake Researcher <br/>
   🚀 Passionate about building socially impactful AI systems
 </p>
 
