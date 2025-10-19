@@ -9,19 +9,22 @@
 
 | Year | Award / Program                                             |
 | ---- | ----------------------------------------------------------- |
-| 2023 | 🥇 총장상 – 교내 빅데이터 분석대회                                          |
+| 2023 - 2| 🥇 총장상 – 교내 빅데이터 분석대회                                          |
 |      | 🏅 오아시스 해커톤 참가                                                |
-| 2024 | 🎤 ASVspoof 2024 참가                                         |
+| 2024 -3 | 🎤 ASVspoof 2024 참가                                         |
 |      | 🧮 GIST Algorithm Masters (5등)                                  |
 |      | 🏆 전국 SW중심대학 AI 부문 최우수상                                        |
 |      | 🤝 전국 SW중심대학 우수작품 경진대회 후원기업상                                     |
-| 2025 | 🥈 미래와소프트웨어 아이디어 경진대회 우수상                                   |
-|      |  프로그래밍 수업 조교 및 강사활동 (1학기)                                    |
+|      |  프로그래밍 수업 조교 (2학기)                                    |
+| 2025 - 4 | 🥈 미래와소프트웨어 아이디어 경진대회 우수상                                   |
+|      |  프로그래밍 수업 강사활동 (1학기)                                    |
 |      |  산학 협력 프로젝트 - ai 기반 계약서 검토 프로그램                    |
 |    | 🌎 Artificial Intelligence Entrepreneurship Program at UCSD (https://www.youtube.com/watch?v=-6U8HAb6YVE)|
 |    | 🎓 호남권 대학 교류대회 - 조선대 대표                                       |
 |   | 2025 METAmobility 자율주행 자동차 경진대회 최우수상                               |
 |  | 2025 NASA Space apps challenge - seoul region 최우수상                          |
+|      |  프로그래밍 수업 강사활동 (2학기)                                    |
+| | 교내 ai 챌린지 진행중
 | 2024 03 ~ 2025 12 | 음성처리 인공지능 연구실 학부연구생 
 | 2026 03 ~ 2028 12 | GIST Networked Intelligence Laboratory 석사과정생                      |
 
