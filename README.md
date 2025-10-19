@@ -36,7 +36,7 @@
   - 🤖 **교내 AI Challenge 진행 중**
 
 - **2024–2025**
-  - 🔬 **Advanced Multimedia Computing Lab(AMCLab) 학부연구생**
+  - 🔬 **Chosun university Advanced Multimedia Computing Lab(AMCL) 학부연구생**
 
 - **🎯 2026–2028**
   - 🎓 **GIST Networked Intelligence Laboratory 석사과정 (예정)**  
