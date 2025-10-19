@@ -53,14 +53,5 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-**AI / ML**: PyTorch · TensorFlow · Scikit-learn  
-**Audio / Speech**: torchaudio · librosa · AASIST · Whisper  
-**NLP / OCR**: HuggingFace · Tesseract · Donut  
-**Backend**: FastAPI · Flask · Docker  
-**Data**: Pandas · NumPy · SQL  
-
----
 
 📧 [k940tjdwns44@gmail.com](mailto:k940tjdwns44@gmail.com)
