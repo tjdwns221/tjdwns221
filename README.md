@@ -23,6 +23,8 @@
 |   | 2025 METAmobility 자율주행 자동차 경진대회 최우수상                               |
 |  | 2025 NASA Space apps challenge - seoul region 최우수상                          |
 | 2024 03 ~  | 음성처리 인공지능 연구실 학부연구생 
+| 2026 03 ~ | GIST Networked Intelligence Laboratory 석사과정생                      |
+
 
 
 
