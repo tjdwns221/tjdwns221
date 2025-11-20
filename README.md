@@ -31,11 +31,11 @@
   - 🤝 **산학협력 프로젝트** – AI 기반 계약서 검토 프로그램 개발  
   - 🌎 **AI Entrepreneurship Program @ UCSD** [🔗](https://www.youtube.com/watch?v=-6U8HAb6YVE)  
   - 🎓 **호남권 대학 교류대회 – 조선대 대표**  
-  - 🚗 **METAmobility 자율주행 경진대회 최우수상 (남원시장상)**  
+  - 🚗 **METAmobility 자율주행 경진대회 최우수상 (남원시장상-AWS상)**  
   - 🚀 **NASA Space Apps Challenge (Seoul Region) 최우수상** [🔗](https://www.spaceappschallenge.org/2025/find-a-team/find-your-friend/?tab=members)  
 
-  - sumtech2025 최우수상(한양대 총장상)
-  - 🤖 **교내 AI Challenge 진행 중**
+  - **sumtech2025 최우수상(한양대 총장상)**
+  - 🤖 **교내 AI Challenge 최우수상**
 
 - **2024–2025**
   - 🔬 **Chosun university Advanced Multimedia Computing Lab(AMCL) 학부연구생**
