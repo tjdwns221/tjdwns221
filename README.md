@@ -19,7 +19,7 @@
   - 🏅 **오아시스 해커톤 참가**
 
 - **2024**
-  - 🎤 **ASVspoof 2024 참가** (음성 Deepfake 탐지)  
+  - 🎤 **ASVspoof 2024 참가** 14등 (음성 Deepfake 탐지)  
   - 🧮 **GIST Algorithm Masters 5위**  
   - 🏆 **전국 SW중심대학 AI 부문 최우수상**  
   - 🤝 **SW중심대학 우수작품 경진대회 후원기업상**  
