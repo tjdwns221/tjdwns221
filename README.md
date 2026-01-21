@@ -39,7 +39,7 @@
 - **2024–2025**
   - 🔬 **Chosun university Advanced Multimedia Computing Lab(AMCL) 학부연구생**
 
-- **🎯 2026–2027**
+- **🎯 2026–Present**
   - 🎓 **GIST Networked Intelligence Laboratory 석사과정**  
 
 ---
