@@ -55,4 +55,4 @@
 ---
 
 
-📧 [k940tjdwns44@gmail.com](mailto:k940tjdwns44@gmail.com)
+📧 [k940tjdwns44@gmail.com](mailto:k940tjdwns44@gmail.com), [sjkim_ai01@gm.gist.ac.kr](mailto:sjkim_ai01@gm.gist.ac.kr)
