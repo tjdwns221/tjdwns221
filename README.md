@@ -56,3 +56,5 @@
 
 
 📧 [k940tjdwns44@gmail.com](mailto:k940tjdwns44@gmail.com), [sjkim_ai01@gm.gist.ac.kr](mailto:sjkim_ai01@gm.gist.ac.kr)
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="seongjoon-kim-ai" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/seongjoon-kim-ai?trk=profile-badge">SeongJoon Kim</a></div>
+              
