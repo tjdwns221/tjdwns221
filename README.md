@@ -35,7 +35,9 @@
   - 🚀 **NASA Space Apps Challenge (Seoul Region) 최우수상** [🔗](https://www.spaceappschallenge.org/2025/find-a-team/find-your-friend/?tab=members)  
   - **sumtech2025 최우수상(한양대 총장상)**
   - 🤖 **교내 AI Challenge 최우수상**
-
+- **2026**
+  - **호남 IS 해커톤 장려상** 
+  
 - **2024–2025**
   - 🔬 **Chosun university Advanced Multimedia Computing Lab(AMCL) 학부연구생**
 
