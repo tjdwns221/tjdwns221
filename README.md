@@ -37,7 +37,7 @@
   - **교내 AI Challenge 최우수상**
 - **2026**
   - **호남 IS 해커톤 장려상**
-  - **AI Top GUN CHALLENGE 장려상(8강)**
+  - **AI Top GUN CHALLENGE 장려상(KAI 사장상)**
   
 - **2024–2025**
   - 🔬 **Chosun university Advanced Multimedia Computing Lab(AMCL) 학부연구생**
